@@ -2,13 +2,14 @@ Hey!
 
 I'm Timmy Engelman, a current senior in high school looking to pursue computer science and web development.
 
-Aspiring software developer passionate about building interactive and user-friendly web apps. Currently learning full-stack development with a focus on clean code and responsive design.</h4>
+I am an aspiring software developer who is passionate about building interactive and user-friendly web apps. Currently learning full-stack development with a focus on clean code and responsive design.
 
-- 🔭 I’m currently working on [To-Do List](https://timmyengelman.github.io/Timmy-Engelman/)
+Email: **timmyengelman@gmail.com**
 
-- 📫 How to reach me: **timmyengelman@gmail.com**
+- Take a look at my most recent project: [To-Do List](https://timmyengelman.github.io/Timmy-Engelman/)
 
 - "**Code is like humor. When you have to explain it, it's bad**"
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
