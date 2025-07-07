@@ -6,9 +6,9 @@ Aspiring software developer passionate about building interactive and user-frien
 
 - 🔭 I’m currently working on [To-Do List](https://timmyengelman.github.io/Timmy-Engelman/)
 
-- 📫 How to reach me **timmyengelman@gmail.com**
+- 📫 How to reach me: **timmyengelman@gmail.com**
 
-- ⚡ Fun fact **Code is like humor. When you have to explain it, it's bad**
+- "**Code is like humor. When you have to explain it, it's bad**"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
