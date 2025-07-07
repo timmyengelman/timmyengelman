@@ -1,6 +1,7 @@
 <h1 align="center">Hi there!</h1>
 
 <h3 align="left">I'm Timmy Engelman, a current senior in high school looking to pursue computer science and web development.
+
 Aspiring software developer passionate about building interactive and user-friendly web apps. Currently learning full-stack development with a focus on clean code and responsive design.</h3>
 
 - 🔭 I’m currently working on [To-Do List](https://timmyengelman.github.io/Timmy-Engelman/)
