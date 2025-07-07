@@ -2,7 +2,7 @@ Hey!
 
 I'm Timmy Engelman, a current senior in high school looking to pursue computer science and web development.
 
-I am an aspiring software developer who is passionate about building interactive and user-friendly web apps. Currently learning full-stack development with a focus on clean code and responsive design.
+I am a student with a strong interest in computer science. I enjoy exploring web development and studying full-stack principles, with an emphasis on writing clean code and designing responsive, user-friendly interfaces.
 
 Email: **timmyengelman@gmail.com**
 
