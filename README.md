@@ -6,7 +6,7 @@ I am a student with a strong interest in computer science. I enjoy exploring web
 
 Email: **timmyengelman@gmail.com**
 
-- Take a look at my most recent project: [To-Do List](https://timmyengelman.github.io/timmyengelman/)
+- Take a look at my most recent project: [To-Do List](https://timmyengelman.github.io/To-Do-List-App/)
 
 - "**Code is like humor. When you have to explain it, it's bad**"
 
