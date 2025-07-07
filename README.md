@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm Timmy Engelman, a current senior in high school looking to pursue computer science and web development.</h3>
 
-<h5 align="center">Aspiring software developer passionate about building interactive and user-friendly web apps. Currently learning full-stack development with a focus on clean code and responsive design.</h3>
+<h3 align="center">Aspiring software developer passionate about building interactive and user-friendly web apps. Currently learning full-stack development with a focus on clean code and responsive design.</h3>
 
 - 🔭 I’m currently working on [To-Do List](https://timmyengelman.github.io/Timmy-Engelman/)
 
